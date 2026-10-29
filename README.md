@@ -10,6 +10,8 @@ ChatGPT·Claude·Gemini·Grok의 사용량, 초기화 시간, 요금제를 한�
 
 광고나 별도 서버 없이 브라우저에서 동작합니다. 한국어·영어를 지원합니다.
 
+**[Chrome 웹스토어에서 설치](https://chromewebstore.google.com/detail/ai-gauge/ecdoapcdbhjmpoboiaalgdmgehmiplpc)**
+
 </div>
 
 ## 주요 기능
@@ -26,7 +28,6 @@ AI Gauge는 대화 내용·프롬프트·결제 정보를 수집하지 않으며
 
 자세한 내용은 [개인정보 처리방침 / Privacy Policy](PRIVACY.md)을 확인하세요.
 
-## 관련 링크
+## 문의
 
-- 소스 코드·설치 안내: [han41858/ai-gauge](https://github.com/han41858/ai-gauge)
-- 문의: han41858@gmail.com
+han41858@gmail.com
